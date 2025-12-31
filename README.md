@@ -1,3 +1,6 @@
+> **Maintainer needed**  
+> This middleware was ported from Python to Swift for Munki 7 by Greg Neagle. However, Greg does not actually use this middleware and is not particularly motivated to support it. If you or your organization rely on this middleware, please consider taking over the responsibility for maintaining it.
+
 This is a project that builds a CloudFront middleware plugin for Munki 7.
 
 It is a port of Aaron Burchfield's CloudFront-Middleware:
